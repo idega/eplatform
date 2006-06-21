@@ -117,6 +117,11 @@
       <artifactId>org.apache.slide</artifactId>
       <version>2.2b6</version>
     </dependency>
+    <dependency>
+      <groupId>com.idega.block.platform</groupId>
+      <artifactId>com.idega.idegaweb.widget</artifactId>
+      <version>3.1.0</version>
+    </dependency>
   </dependencies>
   
 	<build>
@@ -124,6 +129,7 @@
 			<plugin>
 				<groupId>com.idega.maven.plugins</groupId>
 				<artifactId>com.idega.maven.webapp</artifactId>
+				<extensions>true</extensions>
 			</plugin>
     	</plugins>
 	</build>
