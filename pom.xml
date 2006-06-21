@@ -122,6 +122,11 @@
       <artifactId>com.idega.idegaweb.widget</artifactId>
       <version>3.1.0</version>
     </dependency>
+    <dependency>
+      <groupId>com.idega.block.platform</groupId>
+      <artifactId>com.idega.graphics</artifactId>
+      <version>3.1.0</version>
+    </dependency>
   </dependencies>
   
 	<build>
