@@ -10,17 +10,17 @@
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.core</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.builder</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.faces</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
@@ -30,52 +30,52 @@
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.user</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.block.article</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.block.entity</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.block.image</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.block.media</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.block.navigation</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.block.rss</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.block.web2.0</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.content</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.developer</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
@@ -85,27 +85,27 @@
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.manager</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.setup</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.slide</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.webface</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.workspace</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
@@ -120,12 +120,12 @@
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.idegaweb.widget</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.graphics</artifactId>
-      <version>3.1.0</version>
+      <version>3.5.0</version>
     </dependency>
   </dependencies>
   
