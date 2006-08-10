@@ -3,7 +3,7 @@
   <groupId>com.idega.webapp.platform</groupId>
   <artifactId>eplatform</artifactId>
   <packaging>iwwar</packaging>
-  <version>3.2-SNAPSHOT</version>
+  <version>3.5-SNAPSHOT</version>
   <description>Standard eplatform web application</description>
   <name>ePlatform</name>
   <dependencies>
