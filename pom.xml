@@ -132,6 +132,16 @@
       <artifactId>com.idega.graphics</artifactId>
       <version>3.5.0</version>
     </dependency>
+	<dependency>
+      <groupId>com.idega.block.platform</groupId>
+      <artifactId>com.idega.hibernate</artifactId>
+      <version>3.2.0.cr2</version>
+    </dependency>
+	<dependency>
+      <groupId>com.idega.block.platform</groupId>
+      <artifactId>com.idega.xfire</artifactId>
+      <version>1.2.1</version>
+    </dependency>
   </dependencies>
   
 	<build>
