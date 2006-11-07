@@ -155,6 +155,14 @@
     </dependency>
   </dependencies>
 
+  <distributionManagement>
+    <repository>
+      <id>idega1</id>
+      <name>idega Maven2 Repository</name>
+      <url>scp://repository.idega.com/var/www/webs/repository.idega.com/maven2</url>
+    </repository>
+  </distributionManagement>
+
   <build>
     <plugins>
       <plugin>
