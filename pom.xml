@@ -7,6 +7,15 @@
   <version>3.5-SNAPSHOT</version>
   <description>Standard eplatform web application</description>
   <name>ePlatform</name>
+  <inceptionYear>2000</inceptionYear>
+  <organization>
+    <name>idega software</name>
+    <url>http://www.idega.com/</url>
+  </organization>
+  <scm>
+    <connection>scm:cvs:ext:tryggvil@code.idega.com:/idega/cvs:com.idega.webapp.platform/${pom.artifactId}/</connection>
+    <developerConnection>scm:cvs:ext:tryggvil@code.idega.com:/idega/cvs:com.idega.webapp.platform/${pom.artifactId}/</developerConnection>
+  </scm>
   <dependencies>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
@@ -146,7 +155,7 @@
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.hibernate</artifactId>
-      <version>3.2.0.ga</version>
+      <version>3.2.1.ga</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
@@ -163,6 +172,11 @@
       <artifactId>com.idega.springframework</artifactId>
       <version>2.0</version>
     </dependency>
+    <dependency>
+      <groupId>com.idega.block.experimental</groupId>
+      <artifactId>com.idega.facelets</artifactId>
+      <version>1.1.11</version>
+    </dependency>
   </dependencies>
 
   <distributionManagement>
@@ -173,12 +187,56 @@
     </repository>
   </distributionManagement>
 
+	<pluginRepositories>
+	    <pluginRepository>
+	        <id>tlc</id>
+	        <name>TLC Repository</name>
+	        <url>http://commons.ucalgary.ca/pub/m2</url>
+	    </pluginRepository>
+	</pluginRepositories>
+
   <build>
     <plugins>
+    
+    <plugin>
+      <groupId>org.codehaus.mojo</groupId>
+      <artifactId>maven-buildnumber-plugin</artifactId>
+      <version>0.9.4</version>
+      <configuration>
+			<format>{0,date,yyyyMMdd.HHmmss}</format>
+			<items>
+    		<item>timestamp</item>
+  			</items>
+		</configuration>
+      <executions>
+        <execution>
+          <phase>validate</phase>
+          <goals>
+            <goal>create</goal>
+          </goals>
+        </execution>
+      </executions>
+    </plugin>
+
+    
       <plugin>
         <groupId>com.idega.maven.plugins</groupId>
         <artifactId>com.idega.maven.webapp</artifactId>
         <extensions>true</extensions>
+		<configuration>
+          <archive>
+			<manifest>
+              <!--addClasspath>true</addClasspath-->
+              <addExtensions/>
+            </manifest>
+			<manifestEntries>
+				<!--Implementation-Vendor>${pom.organization.name}</Implementation-Vendor-->
+				<Implementation-Vendor-Url>${pom.organization.url}</Implementation-Vendor-Url>
+				<Implementation-Build>${buildNumber}</Implementation-Build>
+				<Implementation-InceptionYear>${pom.inceptionYear}</Implementation-InceptionYear>
+			</manifestEntries>
+          </archive>          
+        </configuration>
       </plugin>
       <!-- 
         <plugin>
