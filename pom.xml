@@ -13,8 +13,8 @@
     <url>http://www.idega.com/</url>
   </organization>
   <scm>
-    <connection>scm:cvs:ext:tryggvil@code.idega.com:/idega/cvs:com.idega.webapp.platform/${pom.artifactId}/</connection>
-    <developerConnection>scm:cvs:ext:tryggvil@code.idega.com:/idega/cvs:com.idega.webapp.platform/${pom.artifactId}/</developerConnection>
+    <connection>scm:cvs:ext:idegaweb@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</connection>
+    <developerConnection>scm:cvs:ext:idegaweb@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</developerConnection>
   </scm>
   <dependencies>
     <dependency>
