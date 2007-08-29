@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
   <modelVersion>4.0.0</modelVersion>
+  <parent>
+  	<groupId>com.idega.block.platform</groupId>
+  	<artifactId>com.idega.block.base.ext</artifactId>
+  	<version>4.0-SNAPSHOT</version>
+  </parent>
   <groupId>com.idega.webapp.platform</groupId>
   <artifactId>eplatform</artifactId>
   <packaging>iwwar</packaging>
@@ -171,7 +176,7 @@
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.springframework</artifactId>
-      <version>2.1-m3</version>
+      <version>${com.idega.block.platform-com.idega.springframework-version}</version>
     </dependency>
     <dependency>
       <groupId>com.idega.block.platform</groupId>
