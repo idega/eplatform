@@ -58,6 +58,7 @@
       <artifactId>com.idega.block.entity</artifactId>
       <version>4.0-SNAPSHOT</version>
     </dependency>
+<!--  
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.block.form</artifactId>
@@ -68,6 +69,7 @@
       <artifactId>com.idega.block.formadmin</artifactId>
       <version>4.0-SNAPSHOT</version>
     </dependency>
+-->
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.block.image</artifactId>
@@ -103,11 +105,13 @@
       <artifactId>com.idega.developer</artifactId>
       <version>4.0-SNAPSHOT</version>
     </dependency>
+<!--  
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.formbuilder</artifactId>
       <version>4.0-SNAPSHOT</version>
     </dependency>
+-->
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.dwr</artifactId>
@@ -163,11 +167,13 @@
       <artifactId>com.idega.hibernate</artifactId>
       <version>${com.idega.block.platform-com.idega.hibernate-version}</version>
     </dependency>
+<!--      
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.xfire</artifactId>
       <version>1.2.4</version>
     </dependency>
+-->
     <dependency>
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.block.process</artifactId>
@@ -183,19 +189,20 @@
       <artifactId>com.idega.multidomain</artifactId>
       <version>4.0-SNAPSHOT</version>
     </dependency>
+    <dependency>
+      <groupId>com.idega.block.platform</groupId>
+      <artifactId>com.idega.block.media</artifactId>
+      <version>4.0-SNAPSHOT</version>
+    </dependency>
     <!--dependency>
       <groupId>com.idega.block.experimental</groupId>
       <artifactId>com.idega.portal</artifactId>
       <version>4.0-SNAPSHOT</version>
     </dependency-->
+<!--    
     <dependency>
       <groupId>com.idega.block.addon</groupId>
       <artifactId>com.idega.block.websearch</artifactId>
-      <version>4.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>com.idega.block.platform</groupId>
-      <artifactId>com.idega.block.media</artifactId>
       <version>4.0-SNAPSHOT</version>
     </dependency>
     <dependency>
@@ -209,6 +216,7 @@
       <version>1.6</version>
       <type>jar</type>
     </dependency>
+-->
   </dependencies>
 
   <distributionManagement>
