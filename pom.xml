@@ -140,6 +140,10 @@
       <groupId>com.idega.block.platform</groupId>
       <artifactId>com.idega.block.media</artifactId>
     </dependency>
+    <dependency>
+      <groupId>com.idega.block.experimental</groupId>
+  	  <artifactId>com.idega.facelets</artifactId>
+    </dependency>
   </dependencies>
 
   <distributionManagement>

@@ -169,6 +169,10 @@
       <groupId>com.idega.block.addon</groupId>
       <artifactId>org.jboss.jbpm</artifactId>
     </dependency>
+    <dependency>
+      <groupId>com.idega.block.experimental</groupId>
+  	  <artifactId>com.idega.facelets</artifactId>
+    </dependency>
   </dependencies>
 
   <distributionManagement>
