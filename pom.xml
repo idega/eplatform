@@ -13,9 +13,8 @@
     <url>http://www.idega.com/</url>
   </organization>
   <scm>
-    <connection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</connection>
-    <developerConnection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</developerConnection>
-    <tag>eplatform-4_0_0</tag>
+    <connection>scm:cvs:ext:civilis@code.idega.com:/idega/cvs:com.idega.webapp.platform/eplatform/</connection>
+    <developerConnection>scm:cvs:ext:civilis@code.idega.com:/idega/cvs:com.idega.webapp.platform/eplatform/</developerConnection>
   </scm>
 
   <dependencies>
