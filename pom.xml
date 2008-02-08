@@ -9,7 +9,7 @@
   <groupId>com.idega.webapp.platform</groupId>
   <artifactId>eplatform</artifactId>
   <packaging>iwwar</packaging>
-  <version>4.0.1</version>
+  <version>4.0.2-SNAPSHOT</version>
   <description>Standard eplatform web application</description>
   <name>ePlatform</name>
   <inceptionYear>2000</inceptionYear>
@@ -22,9 +22,8 @@
   	<connection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</connection>
     <developerConnection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</developerConnection> 
   	 -->
-    <connection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</connection>
-    <developerConnection>scm:cvs:ext:${user.name}@code.idega.com:/idega/cvs:${groupId}/${artifactId}/</developerConnection>
-    <tag>eplatform-4_0_1</tag>
+    <connection>scm:cvs:ext:tryggvil@code.idega.com:/idega/cvs:com.idega.webapp.platform/eplatform/</connection>
+    <developerConnection>scm:cvs:ext:tryggvil@code.idega.com:/idega/cvs:com.idega.webapp.platform/eplatform/</developerConnection>
   </scm>
 
   <dependencies>
