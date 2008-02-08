@@ -164,7 +164,7 @@
       <version>4.0.1</version>
     </dependency>
     <dependency>
-      <groupId>com.idega.block.experimental</groupId>
+      <groupId>com.idega.block.platform</groupId>
   	  <artifactId>com.idega.facelets</artifactId>
       <version>4.0.1</version>
     </dependency>
