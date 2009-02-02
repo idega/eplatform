@@ -4,12 +4,12 @@
   <parent>
   	<groupId>com.idega.block.platform</groupId>
   	<artifactId>com.idega.block.platform</artifactId>
-  	<version>4.0.1</version>
+  	<version>4.1.0</version>
   </parent>
   <groupId>com.idega.webapp.platform</groupId>
   <artifactId>eplatform</artifactId>
   <packaging>iwwar</packaging>
-  <version>4.0.2-SNAPSHOT</version>
+  <version>4.1.1-SNAPSHOT</version>
   <description>Standard eplatform web application</description>
   <name>ePlatform</name>
   <inceptionYear>2000</inceptionYear>
