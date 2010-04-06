@@ -5,7 +5,7 @@
 <web-app>
 
 	<display-name>ePlatform</display-name>
-	<description>idegaWeb ePlatform Main App</description>
+	<description>idegaWeb ePlatform 3.1</description>
 
 <!-- MODULE:BEGIN org.apache.myfaces 0.0 -->
 <!-- MODULE:END org.apache.myfaces 0.0 -->
@@ -18,8 +18,5 @@
 
 <!-- MODULE:BEGIN org.apache.axis 0.0 -->
 <!-- MODULE:END org.apache.axis 0.0 -->
-
-<!-- MODULE:BEGIN com.idega.block.sso 0.0 -->
-<!-- MODULE:END com.idega.block.sso 0.0 -->
 
 </web-app>

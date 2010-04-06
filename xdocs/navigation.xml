@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<project name="idegaWeb"
+  href="http://www.idega.com/">
+
+  <title>idegaWeb</title>
+
+  <body>
+    <menu name="Home">
+      <item name="idegaWeb ePlatform"  href="/index.html" />
+    </menu>
+
+    <menu name="Modules">
+          <item name="idegaWeb Core" href="http://developer.idega.com/bundles/com.idega.core/"/>
+          <item name="idegaWeb Builder" href="http://developer.idega.com/bundles/com.idega.builder/"/>
+          <item name="idegaWeb Article Block" href="http://developer.idega.com/bundles/com.idega.block.article/"/>
+          <item name="idegaWeb Entity Block" href="http://developer.idega.com/bundles/com.idega.block.entity/"/>
+          <item name="idegaWeb Image Block" href="http://developer.idega.com/bundles/com.idega.block.image/"/>
+          <item name="idegaWeb Login Block" href="http://developer.idega.com/bundles/com.idega.block.login/"/>
+          <item name="idegaWeb Media Block" href="http://developer.idega.com/bundles/com.idega.block.media/"/>
+          <item name="idegaWeb Navigation Block" href="http://developer.idega.com/bundles/com.idega.block.navigation/"/>
+          <item name="idegaWeb RSS Block" href="http://developer.idega.com/bundles/com.idega.block.rss/"/>
+          <item name="idegaWeb Web 2.0 Block" href="http://developer.idega.com/bundles/com.idega.block.web2.0/"/>
+          <item name="idegaWeb Content Module" href="http://developer.idega.com/bundles/com.idega.content/"/>
+          <item name="idegaWeb Developer Module" href="http://developer.idega.com/bundles/com.idega.developer/"/>
+          <item name="DWR Integration Module" href="http://developer.idega.com/bundles/com.idega.dwr/"/>
+          <item name="Faces (JSF) Module" href="http://developer.idega.com/bundles/com.idega.faces/"/>
+          <item name="idegaWeb Graphics Module" href="http://developer.idega.com/bundles/com.idega.graphics/"/>
+          <item name="idegaWeb Widget Module" href="http://developer.idega.com/bundles/com.idega.idegaweb.widget/"/>
+          <item name="idegaWeb Manager Module" href="http://developer.idega.com/bundles/com.idega.manager/"/>
+          <item name="idegaWeb Setup Module" href="http://developer.idega.com/bundles/com.idega.setup/"/>
+          <item name="Slide Integration Module" href="http://developer.idega.com/bundles/com.idega.slide/"/>
+          <item name="idegaWeb User Module" href="http://developer.idega.com/bundles/com.idega.user/"/>
+          <item name="idegaWeb WebFace Module" href="http://developer.idega.com/bundles/com.idega.webface/"/>
+          <item name="idegaWeb Workspace Module" href="http://developer.idega.com/bundles/com.idega.workspace/"/>
+          <item name="HSQLDB Integration Module" href="http://developer.idega.com/bundles/net.sourceforge.hsqldb/"/>
+          <item name="Apache Axis Integration Module" href="http://developer.idega.com/bundles/org.apache.axis/"/>
+          <item name="Apache Myfaces Integration Module" href="http://developer.idega.com/bundles/org.apache.myfaces/"/>
+          <item name="Apache Slide Integration Module" href="http://developer.idega.com/bundles/org.apache.slide/"/>
+	</menu>
+	
+
+  </body>
+</project>

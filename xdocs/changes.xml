@@ -1,0 +1,1155 @@
+<document>
+	<properties>
+		<title>ePlatform Changes</title>
+		<author email="tryggvi@idega.com">Tryggvi Larusson</author>
+	</properties>
+	<body>
+		<release version="3.1.144" date="2008-11-06">
+      		<action dev="palli" type="update">
+      			Updated core to 3.1.93
+      		</action>
+    	</release>
+
+		<release version="3.1.143" date="2008-10-06">
+      		<action dev="laddi" type="update">
+      			Updated core to 3.1.92
+      		</action>
+    	</release>
+		<release version="3.1.142" date="2008-09-23">
+      		<action dev="laddi" type="update">
+      			Updated web2.0 to 3.1.8
+      		</action>
+    	</release>
+		<release version="3.1.141" date="2008-07-16">
+      		<action dev="laddi" type="update">
+      			Updated builder to 3.1.17
+      		</action>
+    	</release>
+		<release version="3.1.140" date="2008-06-18">
+      		<action dev="gimmi" type="update">
+      			Updated core to 3.1.91
+      			Updated web2.0 to 3.1.7 (tablesorter)
+      		</action>
+    	</release>
+		<release version="3.1.139" date="2008-06-05">
+      		<action dev="eiki" type="update">
+      			Updated core to 31.90 (new impl. of IDO data copying between databases)
+      		</action>
+    	</release>
+  		<release version="3.1.138" date="2008-05-29">
+      		<action dev="gimmi" type="update">
+      			Updated core to 31.89
+      		</action>
+    	</release>
+		<release version="3.1.137" date="2008-05-27">
+	      	<action dev="alexis" type="update">
+	      		Updated com.idega.core to 3.1.88
+	      	</action>
+		</release>
+		<release version="3.1.136" date="2008-05-21">
+	      	<action dev="laddi" type="update">
+	      		Updated com.idega.builder to 3.1.16
+	      	</action>
+		</release>
+		<release version="3.1.135" date="2008-05-07">
+	      	<action dev="laddi" type="update">
+	      		Updated com.idega.core to 3.1.87
+	      		Updated com.idega.block.login to 3.1.6
+	      	</action>
+		</release>
+		<release version="3.1.134" date="2008-04-29">
+	      	<action dev="gimmi" type="update">
+	      		Updated com.idega.core to 3.1.86
+	      	</action>
+		</release>
+		<release version="3.1.133" date="2008-04-02">
+	      	<action dev="gimmi" type="update">
+	      		Updated com.idega.core to 3.1.85
+	      	</action>
+		</release>
+		<release version="3.1.132" date="2008-04-01">
+	      	<action dev="alexis" type="update">
+	      		Updated com.idega.core to 3.1.84
+	      	</action>
+		</release>
+		<release version="3.1.131" date="2008-03-10">
+	      	<action dev="alexis" type="update">
+	      		Updated com.idega.core to 3.1.83
+	      		Updated com.idega.user to 3.1.22
+	      	</action>
+		</release>
+		<release version="3.1.130" date="2008-02-22">
+	      	<action dev="alexis" type="update">
+	      		Updated com.idega.core to 3.1.82
+	      	</action>
+		</release>
+		<release version="3.1.129" date="2008-02-19">
+	      	<action dev="alexis" type="update">
+	      		Updated com.idega.core to 3.1.81 and com.idega.developer to 3.1.5
+	      	</action>
+		</release>
+		<release version="3.1.128" date="2008-02-15">
+	      	<action dev="alexis" type="update">
+	      		Updated com.idega.core to 3.1.80 and com.idega.workspace to 3.1.5
+	      	</action>
+		</release>
+		<release version="3.1.127" date="2008-02-05">
+	      	<action dev="valdas" type="update">
+	      		Updated com.idega.user to 3.1.21
+	      	</action>
+		</release>
+		<release version="3.1.126" date="2008-02-01">
+	      	<action dev="gimmi" type="update">
+	      		Updated com.idega.core to 3.1.79
+	      	</action>
+		</release>
+		<release version="3.1.125" date="2008-01-31">
+	      	<action dev="palli" type="update">
+	      		Updated com.idega.block.rss to 3.1.14
+	      	</action>
+		</release>
+		<release version="3.1.124" date="2008-01-26">
+	      	<action dev="valdas" type="update">
+	      		Updated com.idega.core to 3.1.78
+	      	</action>
+		</release>
+		<release version="3.1.123" date="2008-01-16">
+	      	<action dev="civilis" type="update">
+	      		Updated com.idega.core to 3.1.77
+	      	</action>
+		</release>
+		<release version="3.1.122" date="2008-01-16">
+	      	<action dev="valdas" type="update">
+	      		Updated com.idega.user to 3.1.20
+	      	</action>
+		</release>
+		<release version="3.1.121" date="2008-01-07">
+	      	<action dev="civilis" type="update">
+	      		Updated com.idega.core to 3.1.76
+	      	</action>
+		</release>
+		<release version="3.1.120" date="2008-01-04">
+	      	<action dev="civilis" type="update">
+	      		Updated com.idega.core to 3.1.75
+	      	</action>
+		</release>
+		<release version="3.1.119" date="2008-01-03">
+	      	<action dev="civilis" type="update">
+	      		Updated com.idega.core to 3.1.74
+	      	</action>
+		</release>
+		<release version="3.1.118" date="2008-01-03">
+	      	<action dev="laddi" type="update">
+	      		Updated com.idega.core to 3.1.73
+	      	</action>
+		</release>
+		<release version="3.1.117" date="2008-01-03">
+	      	<action dev="civilis" type="update">
+	      		Updated com.idega.block.article to 3.1.9
+	      	</action>
+		</release>
+		<release version="3.1.116" date="2008-01-03">
+	      	<action dev="civilis" type="update">
+	      		Updated com.idega.block.article to 3.1.8
+	      	</action>
+		</release>
+		<release version="3.1.115" date="2007-12-31">
+	      	<action dev="civilis" type="update">
+	      		Updated com.idega.core to 3.1.72
+	      	</action>
+		</release>
+		<release version="3.1.114" date="2007-12-06">
+	      	<action dev="gimmi" type="update">
+	      		Updated com.idega.slide to 3.1.10
+	      	</action>
+		</release>
+		<release version="3.1.113" date="2007-12-04">
+	      	<action dev="gimmi" type="update">
+	      		Email window in the User system  fixed to handle ; correctly
+	      		Updated com.idega.core to 3.1.71<br/>
+	      		Updated com.idega.user to 3.1.19
+	      	</action>
+		</release>
+		<release version="3.1.112" date="2007-07-20">
+		      <action dev="thomas" type="update">
+				Updated com.idega.core to 3.1.70. RealEstate: Added new column.
+	      	</action>
+	    </release>
+		<release version="3.1.111" date="2007-11-22">
+	      	<action dev="valdas" type="update">
+	      		Updated com.idega.user to 3.1.18
+	      	</action>
+		</release>
+	
+		<release version="3.1.110" date="2007-11-13">
+	      	<action dev="valdas" type="update">
+	      		Updated com.idega.core to 3.1.69<br/>
+	      		Updated com.idega.user to 3.1.17
+	      	</action>
+		</release>
+	
+		<release version="3.1.109" date="2007-10-13">
+	      	<action dev="tryggvil" type="update">
+	      		Updated handling of authentication to let Slide be able to run on a separate server and authenticate correctly.<br/>
+	      		This was done for the golf application.
+	      		Updated com.idega.core to 3.1.67<br/>
+	      		Updated com.idega.slide to 3.1.9
+	      	</action>
+		</release>
+	
+		<release version="3.1.108" date="2007-10-12">
+			<action dev="sigtryggur" type="update">
+				Updated com.idega.core to 3.1.66
+			</action>
+		</release>
+		
+		<release version="3.1.107" date="2007-09-27">
+			<action dev="laddi" type="update">
+				Updated com.idega.core to 3.1.65
+			</action>
+		</release>
+		
+		<release version="3.1.106" date="2007-09-17">
+			<action dev="gimmi" type="update">
+				Updated com.idega.core to 3.1.64
+			</action>
+		</release>
+		
+		<release version="3.1.105" date="2007-08-30">
+			<action dev="eiki" type="update">
+				Updated com.idega.core to 3.1.62
+			</action>
+		</release>
+		
+		<release version="3.1.104" date="2007-08-14">
+			<action dev="civilis" type="update">
+				Updated com.idega.core to 3.1.61
+			</action>
+		</release>
+		<release version="3.1.103" date="2007-08-07">
+			<action dev="valdas" type="update">
+				Updated com.idega.user to 3.1.16
+				Updated com.idega.builder to 3.1.15
+				Updated com.idega.core to 3.1.60
+			</action>
+		</release>
+	
+		<release version="3.1.102" date="2007-08-03">
+			<action dev="sigtryggur" type="update">
+				Updated com.idega.block.login to 3.1.5
+			</action>
+		</release>
+
+		<release version="3.1.101" date="2007-08-01">
+			<action dev="sigtryggur" type="update">
+				Updated com.idega.user to 3.1.15
+			</action>
+		</release>
+		
+		<release version="3.1.100" date="2007-07-22">
+			<action dev="valdas" type="update">
+				Updated com.idega.user to 3.1.14
+			</action>
+		</release>
+		<release version="3.1.99" date="2007-07-22">
+		      <action dev="laddi" type="update">
+				Updated com.idega.core to 3.1.59
+	      	</action>
+	    </release>
+		<release version="3.1.98" date="2007-07-20">
+		      <action dev="thomas" type="update">
+				Updated com.idega.core to 3.1.58. StringHandler: fixed compile problem with version 1.4 (replace method does not exist)
+	      	</action>
+	    </release>
+		<release version="3.1.97" date="2007-07-20">
+		      <action dev="sigtryggur" type="update">
+				Updated com.idega.core to 3.1.57. New gotoNextInput-javascript added to TextInput
+	      	</action>
+	    </release>
+		
+		<release version="3.1.96" date="2007-07-19">
+		      <action dev="valdas" type="update">
+				Updated com.idega.user to 3.1.13
+	      	</action>
+	    </release>
+	
+		<release version="3.1.95" date="2007-07-18">
+		      <action dev="valdas" type="update">
+				Updated com.idega.core to 3.1.56
+	      	</action>
+	    </release>
+
+		<release version="3.1.94" date="2007-07-17">
+		      <action dev="valdas" type="update">
+				Updated com.idega.slide to 3.1.8
+	      	</action>
+	    </release>
+
+		<release version="3.1.93" date="2007-07-12">
+      		<action dev="palli" type="update">
+				Updated developer bundle
+      		</action>
+    	</release>
+		<release version="3.1.92" date="2007-07-12">
+      		<action dev="valdas" type="update">
+				Possibility to clean rendered UIComponent
+      		</action>
+    	</release>
+		<release version="3.1.91" date="2007-07-11">
+      		<action dev="valdas" type="update">
+				Backed DWR to 1.1
+      		</action>
+    	</release>
+		<release version="3.1.90" date="2007-07-11">
+		      <action dev="thomas" type="update">
+				Updated com.idega.builder 3.1.12
+	      	</action>
+	    </release>
+		<release version="3.1.89" date="2007-07-02">
+		      <action dev="valdas" type="update">
+				Updated com.idega.user 3.1.10
+				Updated com.idega.builder 3.1.10
+				Updated com.idega.core to 3.1.54
+	      	</action>
+	    </release>
+		<release version="3.1.88" date="2007-07-02">
+		      <action dev="laddi" type="update">
+				Updated com.idega.block.navigation to 3.1.4
+				Updated com.idega.core to 3.1.53
+	      	</action>
+	    </release>
+		<release version="3.1.87" date="2007-06-28">
+		      <action dev="gimmi" type="update">
+				Updated com.idega.developer to 3.1.3. Fix to the propertysetting and pxml writing
+				Updated com.idega.core to 3.1.52
+	      	</action>
+			<action dev="tryggvil" type="update">
+				Updated com.idega.block.login to version 3.1.4 which includes new UserRegistration and ForgottenPassword components.
+			</action>
+   		 </release>
+		<release version="3.1.86" date="2007-06-22">
+		      <action dev="eiki" type="update">
+				Updated com.idega.slide to 3.1.7. Tryggvi was fixing a problem with the IWSlideAuthenticator
+	      	</action>
+   		 </release>
+		<release version="3.1.85" date="2007-06-16">
+		      <action dev="eiki" type="update">
+				Updated DWR to 2.0.1, core 3.1.51 and other modules that had dwr.xml configs.
+	      	</action>
+   		 </release>
+		<release version="3.1.84" date="2007-06-15">
+			<action dev="sigtryggur" type="update">
+				Updated to com.idega.builder 3.1.8
+			</action>
+		</release>
+		<release version="3.1.83" date="2007-06-15">
+			<action dev="thomas" type="update">
+				Updated to com.idega.core 3.1.50
+			</action>
+		</release>
+	
+		<release version="3.1.82" date="2007-06-12">
+			<action dev="laddi" type="update">
+				Updated to com.idega.core 3.1.49
+			</action>
+		</release>
+		
+		<release version="3.1.81" date="2007-06-04">
+			<action dev="civilis" type="update">
+				Updated to com.idega.block.builder 3.1.7, FormEmailer becomes young spambot hunter
+			</action>
+		</release>
+		
+		<release version="3.1.80" date="2007-06-04">
+			<action dev="sigtryggur" type="update">
+				Updated to com.idega.blovk.entity 3.1.1, some new localized strings for the EntityBrowser
+			</action>
+		</release>
+		
+		<release version="3.1.79" date="2007-06-01">
+			<action dev="eiki" type="update">
+				Updated to com.idega.builder 3.1.6 , syntax coloring
+				Updated to com.idega.block.web2 3.1.6 , js libs
+				Updated to com.idega.developer 3.1.2 , syntax coloring
+				Updated to com.idega.block.beanshell 3.1.1 , syntax coloring registered BeanShellScript
+				Updated to com.idega.user 3.1.7 , added bundlestarter for viewnode and custom permission code, merged with missing stuff from HEAD and "fixed" Scrolltable
+			</action>
+		</release>
+		
+		<release version="3.1.78" date="2007-06-01">
+			<action dev="sigtryggur" type="update">
+				Updated to com.idega.core 3.1.48
+				Updated to com.idega.workspace 3.1.4
+			</action>
+		</release>
+		
+		<release version="3.1.77" date="2007-05-29">
+			<action dev="sigtryggur" type="update">
+				Updated to com.idega.user 3.1.6 to add some icons to the treeview in the userapplication
+				Added dependency to com.idega.block.beanshell 3.1.0
+			</action>
+		</release>
+
+		<release version="3.1.76" date="2007-05-21">
+			<action dev="laddi" type="update">
+				Added date pattern to article as well as specific style class for each article item in list.
+				(com.idega.webface 3.1.5 and com.idega.block.article 3.1.7).
+			</action>
+		</release>
+
+		<release version="3.1.75" date="2007-05-20">
+			<action dev="gimmi" type="update">
+				Updated to com.idega.block.navigation 3.1.3
+				Updated to com.idega.builder 3.1.5
+			</action>
+		</release>
+		<release version="3.1.74" date="2007-05-20">
+			<action dev="tryggvil" type="fix">
+				Improved handing of Slide authentication, disabled Slide
+				authentication by default for GET and POST requests
+				(com.idega.core 3.1.47 and com.idega.slide 3.1.6).
+			</action>
+			<action dev="tryggvil" type="fix">
+				Update of workspace stylesheet (com.idega.workspace
+				3.1.3) so that Builder Application frames maximize
+				vertically. Fix of styles to tabbar buttons.
+			</action>
+		</release>
+
+		<release version="3.1.73" date="2007-05-16">
+			<action dev="thomas" type="update">
+				Updated to com.idega.slide 3.1.5
+			</action>
+		</release>
+		<release version="3.1.72" date="2007-05-13">
+			<action dev="laddi" type="update">
+				Updated to com.idega.block.web2.0 3.1.5
+			</action>
+		</release>
+		<release version="3.1.71" date="2007-05-11">
+			<action dev="thomas" type="update">
+				Updated to com.idega.core 3.1.46 : + fixed bug with the
+				application identifier that was not the same in
+				InEventDispatcher and OutEventDispatcher but should be.
+				(this bug was not a problem at the moment but could be
+				in the future)
+			</action>
+		</release>
+		<release version="3.1.70" date="2007-05-10">
+			<action dev="thomas" type="update">
+				Updated to com.idega.slide 3.1.4 : + added
+				IWSlideChangeEventClient that connects slide to the
+				event system in core (the event system is used by
+				com.idega.cluster) + attached IWSlideChangeEventClient
+				to IWSlideChangeTrigger to be the event client
+			</action>
+		</release>
+		<release version="3.1.69" date="2007-05-07">
+			<action dev="thomas" type="update">
+				Updated to com.idega.builder 3.1.4 (bug fixed page cache
+				was not invalidated when storing updated page)
+			</action>
+		</release>
+		<release version="3.1.68" date="2007-05-05">
+			<action dev="thomas" type="update">
+				Updated to com.idega.core 3.1.45 (bug fixed two instance
+				of SingleRepository were created))
+			</action>
+		</release>
+		<release version="3.1.67" date="2007-05-02">
+			<action dev="thomas" type="update">
+				Updated to com.idega.core 3.1.44 (several bugfixes in
+				core regarding caches and clustering, bugfix regarding
+				derby database)
+			</action>
+		</release>
+
+		<release version="3.1.66" date="2007-05-02">
+			<action dev="eiki" type="update">
+				Updated com.idega.content to 3.1.22 Added manual
+				limiting to the contentsearch results and temporarely
+				disabled Slide DASL ordering since it doesn't work. DASL
+				limiting works but is useless when the ordering doesn't.
+				Added Block caching for WhatISNew and added a new
+				SlideChangeListener to invalidate cache if something in
+				Slide changes.
+			</action>
+		</release>
+
+		<release version="3.1.65" date="2007-04-30">
+			<action dev="thomas" type="update">
+				Minor change to WriterToFile (Strings are now allowed as
+				folder identifiers)
+			</action>
+			<action dev="eiki" type="fix">
+				Removed the adding of the "standard" style.css file from
+				idegaweb/style/... it has long been deprecated and
+				causes style problems in safari when not found. Updated
+				com.idega.block.rss to 3.1.13 (palli)
+			</action>
+			<action dev="thomas" type="add">
+				Added package com.idega.core.event. Added EventClients
+				extensions for IWCacheManager and
+				IWMainApplicationSettings that is
+				IWCacheManagerClientEvent and
+				IWMainAppicationSettingsClientEvent. Changed
+				CacheMapListener (keys are allowed to be Objects not
+				only Strings). package com.idega.core.event is used by
+				the com.idega.cluster bundle. Actually those changes
+				seems to be included since version 3.1.32.
+			</action>
+		</release>
+
+		<release version="3.1.64" date="2007-04-24">
+			<action dev="eiki" type="update">
+				Updated com.idega.block.rss to 3.1.12 Updated
+				com.idega.content to 3.1.21 (because of rss update)
+			</action>
+		</release>
+
+		<release version="3.1.63" date="2007-04-24">
+			<action dev="eiki" type="update">
+				Updated com.idega.block.rss to 3.1.11 (merged with
+				changes from HEAD) Updated com.idega.content to 3.1.20
+				(because of rss update)
+			</action>
+		</release>
+
+		<release version="3.1.62" date="2007-04-24">
+			<action dev="thomas" type="update">
+				Module updated: core 3.1.43 (extended API of
+				WriterToFile)
+			</action>
+		</release>
+
+		<release version="3.1.61" date="2007-04-16">
+			<action dev="eiki" type="update">
+				com.idega.content 3.1.19 Fixed wildcard bug in
+				ContentSearch DASL xml.
+			</action>
+		</release>
+
+		<release version="3.1.60" date="2007-03-30">
+			<action dev="palli" type="update">
+				A bug fixed in the IWAuthenticator, that caused no
+				listeners to be called on login. Modules updated: core
+				3.1.42
+			</action>
+		</release>
+
+		<release version="3.1.59" date="2007-03-20">
+			<action dev="eiki" type="update">
+				Merged changes made in v.2.0 to v3.1 from various
+				modules and updated slide dependecies to newer jars. ALL
+				webapps must remove tomcat/bin/store/index (backup!)
+				folders and restart to reindex! Modules updated include:
+				core 3.1.41 slide 3.1.3 og 2.2.pre1.iwbuild5 article
+				3.1.6 image 3.1.2 media 3.1.1 navigation 3.1.2 rss
+				3.1.10 builder 3.1.3 content 3.1.18
+			</action>
+		</release>
+
+		<release version="3.1.58" date="2007-03-28">
+			<action dev="sigtryggur" type="fix">
+				[com.idega.workspace 3.1.2] Stylesheetfix for IE7.
+				SubmitButtons in ViewNodes did not appear.
+			</action>
+		</release>
+
+		<release version="3.1.57" date="2007-03-20">
+			<action dev="gimmi" type="fix">
+				[com.idega.core 3.1.40] Add a setTextInputId method
+			</action>
+		</release>
+		<release version="3.1.56" date="2007-02-14">
+			<action dev="gimmi" type="fix">
+				[com.idega.login 3.1.3] RedirectToHomePage fixed for
+				Login
+			</action>
+		</release>
+
+
+		<release version="3.1.55" date="2007-02-16">
+			<action dev="eiki" type="update">
+				[com.idega.core 3.1.37] Added changedByUser and
+				changedByGroup LoginTable (ic_login) and removed
+				numerous unused com.idega.core.user classes
+				[com.idega.user 3.1.4] Changed the UserLoginTab in
+				com.idega.user to fix a security hole along with Login
+				and user classes in core. Now only the user himself,
+				admin or the first person or the persons group that
+				changes the users password for the first time can change
+				it again.
+			</action>
+		</release>
+
+
+		<release version="3.1.54" date="2007-02-14">
+			<action dev="gimmi" type="fix">
+				[com.idega.core 3.1.36] DatePicker fixed
+			</action>
+		</release>
+
+		<release version="3.1.53" date="2007-02-12">
+			<action dev="tryggvil" type="fix">
+				[com.idega.core 3.1.35] Fixed cache problem in Builder
+				page tree. This fixes the "NavigationList displaying
+				empty" bug.
+			</action>
+		</release>
+
+		<release version="3.1.52" date="2007-02-08">
+			<action dev="laddi" type="update">
+				[com.idega.core 3.1.34] Changed so that ICObject values
+				that have no corresponding class are removed.
+			</action>
+			<action dev="laddi" type="update">
+				[com.idega.workspace 3.1.1] Update of stylesheet so that
+				the logout button works.
+			</action>
+		</release>
+
+		<release version="3.1.51" date="2007-02-06">
+			<action dev="gimmi" type="fix">
+				[com.idega.core 3.1.33] Fixed ResultOutput to rearrange
+				onEvents properly
+			</action>
+			<action dev="eiki" type="fix">
+				[com.idega.core 3.1.33] Fixed getLocalizedString to get
+				default value from Localizable.string if possible
+				otherwise use the returnIfNullValue
+			</action>
+		</release>
+
+		<release version="3.1.50" date="2007-02-05">
+			<action dev="sigtryggur" type="fix">
+				[com.idega.core 3.1.32] Fixed few javascripts that were
+				not working properly
+			</action>
+		</release>
+
+		<release version="3.1.49" date="2007-02-01">
+			<action dev="gediminas" type="fix">
+				[com.idega.core 3.1.31] Fixed non-letter character
+				substitution
+			</action>
+		</release>
+
+		<release version="3.1.48" date="2007-02-01">
+			<action dev="eiki" type="update">
+				[com.idega.core 3.1.30] Fixed locale error in
+				userbusiness
+			</action>
+		</release>
+
+		<release version="3.1.47" date="2007-01-31">
+			<action dev="eiki" type="update">
+				[com.idega.core 3.1.29] Added preferred locale support
+				for users [com.idega.developer 3.1.1] Now you can
+				disable the english locale
+			</action>
+		</release>
+
+		<release version="3.1.46" date="2007-01-26">
+			<action dev="eiki" type="update">
+				[com.idega.block.rss 3.1.9] Updated ROME to 0.9 to fix
+				many bugs.
+			</action>
+		</release>
+
+		<release version="3.1.45" date="2007-01-25">
+			<action dev="gediminas" type="fix">
+				[com.idega.webface 3.1.4] Fix infinite alert in article
+				editor.
+			</action>
+		</release>
+
+		<release version="3.1.44" date="2007-01-25">
+			<action dev="tryggvil" type="update">
+				[com.idega.core 3.1.26] Fixed loading layer for better
+				support of IE6 and under.
+			</action>
+		</release>
+
+		<release version="3.1.43" date="2007-01-22">
+			<action dev="tryggvil" type="update">
+				[com.idega.core 3.1.25] Update of
+				Accesscontrol/IWAuthenticator subsystem to facilitate
+				VUF changes.
+			</action>
+			<action dev="tryggvil" type="fix">
+				[com.idega.block.article 3.1.4] Fixed ordering of
+				articles in a list view.
+			</action>
+			<action dev="tryggvil" type="fix">
+				[com.idega.block.webface 3.1.3] Fixed bugs with HtmlArea
+				editor/Xinha and Firefox 1.5/2.
+			</action>
+		</release>
+
+		<release version="3.1.42" date="2007-01-11">
+			<action dev="eiki" type="fix">
+				[com.idega.block.rss 3.1.8] Fixed RSSTicker's javascript
+				bugs for IE6,IE7 and Opera. Now works in all browsers.
+			</action>
+		</release>
+
+		<release version="3.1.41" date="2007-01-05">
+			<action dev="laddi" type="add">
+				[com.idega.core 3.1.24] Changed DayOfWeekAndDate so that
+				it doesn't display the day of week twice for locales
+				other than Icelandic. [com.idega.core 3.1.24] Added
+				locale as style class for all widgets.
+				[com.idega.idegaweb.widget 3.1.1] Translation fixes.
+			</action>
+		</release>
+
+		<release version="3.1.40" date="2007-01-02">
+			<action dev="gimmi" type="add">
+				[com.idega.block.navigation 3.1.1] added an new method,
+				setOpenAllNodes.
+			</action>
+		</release>
+
+		<release version="3.1.39" date="2006-12-05">
+			<action dev="laddi" type="update">
+				[com.idega.core 3.1.23] Fixed implementation of
+				compareTo(IDOEntity) in GenericEntity so that it doesn't
+				throw a ClassCastException when primary key is not a
+				String.
+			</action>
+		</release>
+
+		<release version="3.1.38" date="2006-12-05">
+			<action dev="gimmi" type="update">
+				More functions made available in the image window in
+				Xinha. webface, content updated.
+			</action>
+			<action dev="gimmi" type="fix">
+				When saving articles, server name is removed from URLs
+				(when it applies) Xinha image and link windows can now
+				edit images and links. webface, content and article
+				updated.
+			</action>
+		</release>
+
+		<release version="3.1.37" date="2006-11-23">
+			<action dev="laddi" type="update">
+				[com.idega.core 3.1.22] Changed print implementation in
+				Page to accomodate for different types of bundle style
+				sheets.
+			</action>
+		</release>
+
+		<release version="3.1.36" date="2006-11-15">
+			<action dev="eiki" type="update">
+				Updated the following bundles com.idega.block.image
+				3.1.1 Changed Slidalicious img-tag implementation to
+				preload the images because of iptv slowness. Changed
+				ImageProcessor thread to a daemon thread.
+				com.idega.block.login 3.1.2 LoginByUUIDLink will now use
+				the currentUsers uuid by default com.idega.block.rss
+				3.1.7 Localization related fixes mostly com.idega.core
+				3.1.21 Changed all timed threads to daemon threads
+				com.idega.manager 3.1.1 Changed a thread in the
+				Installer to a daemon thread
+			</action>
+		</release>
+
+		<release version="3.1.35" date="2006-11-15">
+			<action dev="laddi" type="update">
+				Fixed loading layer so that it displays correctly
+				cross-browser. Updating core[3.1.20]
+			</action>
+		</release>
+		<release version="3.1.34" date="2006-11-11">
+			<action dev="laddi" type="update">
+				Added style classes for different states of accordion
+				object and removed ugly default styles set in .js file.
+				Updating web2.0[3.1.4]
+			</action>
+		</release>
+		<release version="3.1.33" date="2006-11-10">
+			<action dev="gimmi" type="update">
+				Fixed the presentation of upload and deleter forms
+				Updating content[3.1.15] Updating webface[3.1.1]
+			</action>
+		</release>
+		<release version="3.1.32" date="2006-11-09">
+			<action dev="gimmi" type="update">
+				WhatIsNew can now be setup to group the results. (again)
+				Updating core[3.1.19] Updating content[3.1.14] Updating
+				web2.0[3.1.3]
+			</action>
+		</release>
+		<release version="3.1.31" date="2006-11-09">
+			<action dev="laddi" type="update">
+				Added displaying of Loading Layer on click when using
+				Link to submit Form. Updating core[3.1.18]
+			</action>
+		</release>
+
+		<release version="3.1.30" date="2006-11-06">
+			<action dev="gimmi" type="update">
+				WhatIsNew can now be setup to group the results.
+				Updating core[3.1.17] Updating content[3.1.12] Updating
+				web2.0[3.1.2]
+			</action>
+		</release>
+
+		<release version="3.1.29" date="2006-11-02">
+			<action dev="laddi" type="update">
+				Fixed incorrect cache handling of application bindings
+				with keys larger than max value. Added possibility to
+				include style sheets with specific media type through
+				GlobalIncludeManager. Updating core[3.1.16]
+			</action>
+		</release>
+		<release version="3.1.28" date="2006-10-30">
+			<action dev="gimmi" type="add">
+				Added a set method to uploader to display status after
+				an upload attempt (default false) Updating
+				content[3.1.11]
+			</action>
+		</release>
+		<release version="3.1.27" date="2006-10-30">
+			<action dev="gimmi" type="fix">
+				Fixed the permissions tab Updating content[3.1.10]
+			</action>
+		</release>
+		<release version="3.1.26" date="2006-10-30">
+			<action dev="laddi" type="update">
+				Added different style classes to different states of
+				Login2 Updating login[3.1.1]
+			</action>
+		</release>
+
+		<release version="3.1.25" date="2006-10-25">
+			<action dev="gimmi" type="fix">
+				Link element fixed to keep its state. Updating
+				core[3.1.15]
+			</action>
+		</release>
+
+		<release version="3.1.24" date="2006-10-24">
+			<action dev="gimmi" type="fix">
+				Added more options to WhatIsNew and ContentSearch, also
+				being able to add WebDAVUploader and WebDAVDeleter in
+				the builder Updating core[3.1.14] Updating
+				content[3.1.9]
+			</action>
+		</release>
+
+		<release version="3.1.23" date="2006-10-19">
+			<action dev="gimmi" type="fix">
+				Updating core[3.1.12] because of a bug fixed when
+				getting reflection properties for rebuilding the blocks.
+				Updating content[3.1.8] to fix a bug in the
+				ContentSearch
+			</action>
+		</release>
+
+		<release version="3.1.22" date="2006-10-10">
+			<action dev="eiki" type="fix">
+				Updating content[3.1.7] and rss[3.1.6] because of a new
+				rome-modules-0.2j1.4.2.jar. The old one was made with
+				java 1.5 and was causing problems. The new idega
+				generated jar was built with jdk 1.4
+			</action>
+		</release>
+
+		<release version="3.1.21" date="2006-10-04">
+			<action dev="laddi" type="update">
+				Updating core[3.1.12] to accomodate for new
+				functionality to prevent multiple submits of forms when
+				using setToFormSubmit in Link.
+			</action>
+		</release>
+
+		<release version="3.1.20" date="2006-10-04">
+			<action dev="eiki" type="fix">
+				Updating content[3.1.6] and rss[3.1.5] because of a new
+				rome-modules-0.2.jar. The old one was made with java 1.5
+				and was causing problems. The new idega generated jar
+				was built with jdk 1.4
+			</action>
+		</release>
+
+		<release version="3.1.19" date="2006-09-28">
+			<action dev="eiki" type="update">
+				Added the possibility to produce rss feeds to the
+				platform. Updated to com.idega.block.rss v3.1.4 New
+				framework, RSSProducer added for producing RSS feeds via
+				plugable interface. Read the wiki entry
+				http://trac.idega.is/projects/idegaweb/wiki/RSSProducer
+				for details. Update to com.idega.slide v3.1.2 for new
+				method needed by com.idega.block.rss Updated to
+				com.idega.content v3.1.5 to get new ContentRSSProducer,
+				try out an uri like /rss/content/files/public
+			</action>
+		</release>
+
+		<release version="3.1.18" date="2006-09-20">
+			<action dev="gimmi" type="fix">
+				Updated to com.idega.core v3.1.11 that added an
+				addTrigger to ResultOutput
+			</action>
+		</release>
+
+		<release version="3.1.17" date="2006-09-09">
+			<action dev="gimmi" type="fix">
+				Updated to com.idega.core v3.1.10 that replaces some
+				findObj() with this.form[]
+			</action>
+		</release>
+
+		<release version="3.1.16" date="2006-09-09">
+			<action dev="gimmi" type="fix">
+				Updated to com.idega.core v3.1.9
+			</action>
+		</release>
+
+		<release version="3.1.15" date="2006-08-01">
+			<action dev="gimmi" type="fix">
+				Updated to com.idega.core v3.1.8
+			</action>
+		</release>
+
+		<release version="3.1.14" date="2006-08-01">
+			<action dev="gimmi" type="fix">
+				Updated to com.idega.core v3.1.7 Fixed non-public pop-up
+				window in Poll
+			</action>
+		</release>
+
+		<release version="3.1.13" date="2006-07-27">
+			<action dev="eiki" type="fix">
+				Updated to com.idega.core v3.1.6 Fixed non-public pop-up
+				window in Help
+			</action>
+		</release>
+
+		<release version="3.1.12" date="2006-07-24">
+			<action dev="eiki" type="fix">
+				Updated to com.idega.block.rss v3.1.3 RSSTicker and
+				RSSViewer hidden layer bugfixes
+			</action>
+		</release>
+
+		<release version="3.1.11" date="2006-07-24">
+			<action dev="tryggvil" type="fix">
+				Bugfix to article module, updated to version 3.1.1.
+				Fixed bug which caused error on startup for Oracle
+				AppServer (in Reykjavik) because of an xml processsing
+				error in the faces-config.xml file.
+			</action>
+		</release>
+
+		<release version="3.1.10" date="2006-07-20">
+			<action dev="gimmi" type="update">
+				Updated to Builder v3.1.2 Fixed some issues with the
+				page import/export
+			</action>
+		</release>
+
+		<release version="3.1.9" date="2006-07-20">
+			<action dev="gimmi" type="update">
+				Updated to Core v3.1.5 and Builder v3.1.1
+			</action>
+		</release>
+
+		<release version="3.1.8" date="2006-07-17">
+			<action dev="eiki" type="update">
+				Updated to com.idega.block.rss v3.1.2 Many RSSTicker
+				improvements and bugfixes Now the date for each rss item
+				is read from dc:date and the datestring can be formatted
+				by a pattern. Live interval updating the RSS via ajax is
+				now implemented for the RSSTicker
+			</action>
+		</release>
+
+		<release version="3.1.7" date="2006-07-13">
+			<action dev="eiki" type="fix">
+				Updated to com.idega.block.rss v3.1.1 Fixed bug in
+				RSSTicker
+			</action>
+		</release>
+
+		<release version="3.1.6" date="2006-07-07">
+			<action dev="eiki" type="update">
+				Updated to com.idega.content v3.1.4 Updated to
+				com.idega.core v3.1.4 Added new class,
+				SearchResultComparator and using it in ContentSearch
+				Fixed bug in SearchResults
+			</action>
+		</release>
+
+		<release version="3.1.5" date="2006-07-06">
+			<action dev="eiki" type="fix">
+				Updated to com.idega.content v3.1.3 Fixed nullpointer
+				bug that was created with the combination of ArticleList
+				and ContentSearch. The folder in the article path do not
+				have creation or modification dates! Declaring v. 3.1.5
+			</action>
+		</release>
+		<release version="3.1.4" date="2006-07-06">
+			<action dev="eiki" type="update">
+				Updated to com.idega.core v.3.1.3 Updated to
+				com.idega.content v3.1.2 Fixes and new features for
+				SearchResults, WhatISNew, ContentSearch
+			</action>
+		</release>
+		<release version="3.1.3" date="2006-07-03">
+			<action dev="gimmi" type="fix">
+				Updated to com.idega.core v.3.1.2 Fixes to the
+				SmallCalendar where there were being used HTML special
+				characters in text. Added ability to set classToLinkTo
+				and dateParameterName.
+			</action>
+		</release>
+		<release version="3.1.2" date="2006-06-30">
+			<action dev="eiki" type="update">
+				Upgraded to com.idega.core v.3.1.1 Refactored and
+				improved SearchResult to be more extendable. See new
+				module WhatIsNew in the com.idega.content bundle for an
+				example.
+			</action>
+			<action dev="eiki" type="update">
+				Upgraded to org.apache.slide v.2.2b7 Added property
+				index definitions to enable case insensitive searching
+				of standard properties.
+			</action>
+			<action dev="eiki" type="update">
+				Upgraded to com.idega.content v.3.1.1 Added a new block
+				called WhatIsNew. It displays the latest or all entries
+				in the file repository ordered by creation date. It
+				extends SearchResults and forces it to only use a DASL
+				search (ContentSearch) with specific settings and the
+				query is by default set to "*" and the path to "files"
+				but that can be changed. Also changed ContentSearch to
+				support ordering and limiting.
+			</action>
+			<action dev="eiki" type="fix">
+				Upgraded to com.idega.block.web2.0 v.3.1.1 Bugfix from
+				HEAD. The version number for scriptaculous was wrong.
+			</action>
+		</release>
+
+		<release version="3.1.1" date="2006-06-22">
+			<action dev="tryggvil" type="fix">
+				Fixed interface definition of LinkToUserStats to fix
+				compile error on member module and User Application
+			</action>
+		</release>
+
+		<release version="3.1.0" date="2006-06-19">
+			<action dev="tryggvil" type="add">
+				Workspace/Article/Document UI Updates. Adjustments to
+				the User interface for the Workspace environment to
+				enforce more UI consistency, especially for the Article
+				and Documents parts.
+			</action>
+			<action dev="tryggvil" type="add">
+				New RSS module for aggregating, reading and archiving
+				RSS/Atom feeds from other web sites.
+			</action>
+			<action dev="tryggvil" type="add">
+				New DWR module that integrates the Direct Web Remoting
+				project for easier AJAX development, working easily with
+				bridging server-side Java objects with JavaScript.
+			</action>
+			<action dev="tryggvil" type="add">
+				New Web 2.0 Module. Module that conveniently bundles all
+				the main AJAX JavaScript libraries (Scriptaculous,
+				Prototype etc.) into the ePlatform.
+			</action>
+			<action dev="tryggvil" type="add">
+				Updated image module now shipped with the platform.
+				Handles auto-resizing and thumb nailing of uploaded
+				images through WebDAV/Slide.
+			</action>
+			<action dev="tryggvil" type="add">
+				Full JSF Component support in Builder. Builder now
+				supports adding pure JSF components (not
+				PresentationObjects) with the “Add Module” window in
+				Builder into IBXML pages. Previously in version 3.0 this
+				was limited to manually editing xml tags for these
+				components. This makes it easier to work with the
+				Article module that is based on pure JSF components.
+				This is built on new ComponentRegistry framework that
+				scans and holds a registry of all available
+				faces-config.xml files installed in jar files in the
+				running application.
+			</action>
+			<action dev="tryggvil" type="add">
+				Basic JUnit Tests. Simple automated Unit test case for
+				the core module and base classes for developing new unit
+				tests easier in existing idegaWeb maven modules.
+			</action>
+			<action dev="tryggvil" type="add">
+				Locale variants implemented (sub-locale). Possibility to
+				have variations on translations under each locale
+				(language). This is implemented as additional
+				Localized_[variantx].strings file and can be used to
+				implement customer specific localizations.
+			</action>
+			<action dev="tryggvil" type="update">
+				Myfaces runtime update to 1.1.3. Update to the most
+				recent Myfaces JSF runtime (core) and Tomahawk addon
+				module.
+			</action>
+			<action dev="tryggvil" type="add">
+				New Cache sub-system. IWCacheManager2, which builds on
+				the Open source ehCache project.
+			</action>
+			<action dev="tryggvil" type="update">
+				Caching support for rendered content general general JSF
+				UIComponents (Content Caching). Builds on the
+				IWCacheManager2.
+			</action>
+			<action dev="tryggvil" type="update">
+				IDO Persistence framework updates. Updates to facilitate
+				usage of caching of entity beans and better control of
+				pre-loading large collection of beans from finder
+				methods.
+			</action>
+			<action dev="tryggvil" type="update">
+				Performance optimizations and caching implemented for
+				core module beans (ICObject,ICObjectInstance,ICLocale).
+			</action>
+			<action dev="tryggvil" type="add">
+				Added experimental support for the H2
+				(http://www.h2database.com/) database engine.
+			</action>
+			<action dev="tryggvil" type="update">
+				Misc. updates to unify look-and-feel of UI components
+				(IWAdminWindow) and adjusting to newer ePlatform look.
+			</action>
+			<action dev="tryggvil" type="add">
+				Adding inclusion of LogDriver standard with the system.
+			</action>
+			<action dev="tryggvil" type="fix">
+				Misc. other small bugfixes.
+			</action>
+		</release>
+
+		<release version="3.0.0" date="2005-09-15">
+			<action dev="tryggvil" type="update">
+				ePlatform 3.0 Released
+			</action>
+		</release>
+
+		<release version="3.0RC2" date="2005-04-06">
+			<action dev="tryggvil" type="update">
+				RC2 Version for platform version 3.0
+			</action>
+		</release>
+
+		<release version="3.0RC1" date="2005-03-10">
+			<action dev="tryggvil" type="update">
+				RC1 Version for platform version 3.0
+			</action>
+		</release>
+
+	</body>
+</document>
